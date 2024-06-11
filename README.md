@@ -1,3 +1,3 @@
 # githubtest
 
-this is a gihub tes
+this is a gihub test
